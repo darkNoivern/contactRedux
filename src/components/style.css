@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Montserrat:wght@500&display=swap');
+
+.navbar-brand{
+  font-family: 'Arvo', serif;
+  letter-spacing: 0.2rem;
+}
+
+.addContainer{
+    width: 95%;
+    max-width: 50rem;
+}
+
+.flexy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}
+
+.form-container{
+  box-shadow: 0 5px 15px rgb(0 0 0 / 10%);
+}
+
+.table-container{
+  width: 95%;
+  max-width: 80rem;
+}
+
+.action-btn{
+  width: 4.5rem;
+}
